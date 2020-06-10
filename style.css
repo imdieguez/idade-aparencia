@@ -1,0 +1,34 @@
+body {
+    background-color: teal;
+    font-size: 16px;
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+}
+
+.box-container {
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 5px 10px 5px rgba(0, 0, 0, 0.425);
+}
+
+.box-content {
+    padding: 20px 20px;
+    text-align: left;
+}
+
+.res {
+    font-size: 22px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
